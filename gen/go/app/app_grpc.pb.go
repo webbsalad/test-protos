@@ -4,7 +4,7 @@
 // - protoc             v5.27.1
 // source: app/app.proto
 
-package test_app_v1
+package appv1
 
 import (
 	context "context"
